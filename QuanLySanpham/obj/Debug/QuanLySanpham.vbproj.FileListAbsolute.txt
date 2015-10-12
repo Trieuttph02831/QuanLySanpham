@@ -1,0 +1,15 @@
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\bin\Debug\QuanLySanpham.exe.config
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\bin\Debug\QuanLySanpham.exe
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\bin\Debug\QuanLySanpham.pdb
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\bin\Debug\QuanLySanpham.xml
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmQLSP.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.Resources.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.vbproj.GenerateResource.Cache
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.exe
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.xml
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.pdb
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmAddSanpham.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmAddKhachhang.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmHoaDon.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmChiTietHoaDon.resources
+E:\dientoandammay\QuanLySanpham\QuanLySanpham\obj\Debug\QuanLySanpham.frmTheLoai.resources
